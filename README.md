@@ -1,4 +1,4 @@
-### Hi there 👋  :grin:
+### Olá👋  :grin:
 
 Eu sou o Everton Sanches, sou progamador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
